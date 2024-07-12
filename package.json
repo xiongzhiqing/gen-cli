@@ -1,10 +1,11 @@
 {
-  "name": "ever-cli",
+  "name": "ever-command-line-interface",
   "version": "0.0.1",
   "type": "module",
   "description": "自定义脚手架，项目模版",
   "main": "index.js",
   "scripts": {
+    "release": "sh build/release.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {

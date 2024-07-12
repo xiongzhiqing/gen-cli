@@ -20,6 +20,11 @@ export const templates = [
     name: 'vue3-template',
     description: 'Vue 3 + TypeScript + Vite 创建初始化自定义vue3项目模版',
     value: 'vue3-template.git'
+  },
+  {
+    name: 'electron-hiprint',
+    description: 'vue-plugin-hiprint 直接打印客户端；web无预览打印；支持 Mac、Win、Linux 系统；支持 IPP 打印、获取 MAC、IP 地址等',
+    value: 'electron-hiprint'
   }
 ]
 
